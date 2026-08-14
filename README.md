@@ -62,6 +62,7 @@ A camada Gold deste projeto é persistida em formato **PARQUET** para consumo an
 ## 📊 Exemplo de transformação
 
 Removendo 10 Linhas nulas da coluna ano
+
 ![Padronizacao colunas](imgs/2_remove_linhas.png)
 
 Colunas Padronizadas English to Português:

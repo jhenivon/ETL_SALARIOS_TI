@@ -86,8 +86,12 @@ Neste projeto, a Gold é persistida em formato **Parquet** e utilizada como font
 
 O dataset de origem contém **133.349 registros**. Durante o processamento, **10 registros nulos na coluna `ano` foram removidos**, resultando em **133.339 registros** na camada Gold.
 
-A tabela analítica da Gold é persistida em formato **Parquet** e será utilizada como fonte para o projeto [**ANALISE-SALARIOS-TI-databricks**](LINK), desenvolvido no **Databricks**, onde os dados serão utilizados para análises e visualizações.
+A tabela analítica da Gold é persistida em formato **Parquet** e será utilizada como fonte para o projeto (LINK em breve aqui), desenvolvido no **Databricks**, onde os dados serão utilizados para análises e visualizações.
 
+
+## Atenção
+
+**Esse projeto podem sofrer alterações a qualquer momento sem aviso prévio com intuito de aplicar melhorias**
 ## 👤 Autor
 
 **Genivon Silva**
